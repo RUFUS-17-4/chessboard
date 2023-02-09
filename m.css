@@ -1,0 +1,16 @@
+.u{
+    height: 800px;
+    width: 800px;
+}
+.f{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.s{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
